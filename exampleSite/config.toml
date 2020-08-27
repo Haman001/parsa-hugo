@@ -9,7 +9,7 @@ URL = "about"
 name = "Financial time"
 weight = 2
 [[menu.main]]
-URL = "contact"
+URL = "financialtime01@gmail.com"
 name = "Contact"
 weight = 3
 [outputs]

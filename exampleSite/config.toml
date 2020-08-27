@@ -6,7 +6,7 @@ theme = "parsa-hugo"
 title = "Financial time"
 [[menu.main]]
 URL = "about"
-name = "About"
+name = "Financial time"
 weight = 2
 [[menu.main]]
 URL = "contact"

@@ -5,17 +5,10 @@ summaryLength = "10"
 theme = "Financial Time"
 title = "Financial time"
 [[menu.main]]
-URL = ""
-name = ""
-weight = ""
-[[menu.main]]
-URL = ""
-name = "About"
-weight = 2
-[[menu.main]]
-URL = "financialtime01@gmail.com"
+URL = "contact"
 name = "Contact"
-weight = 3
+url = "financialtime01@gmail.com"
+weight = 2
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]

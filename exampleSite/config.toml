@@ -5,8 +5,12 @@ summaryLength = "10"
 theme = "Financial Time"
 title = "Financial time"
 [[menu.main]]
-URL = "about"
-name = "Financial time"
+URL = ""
+name = ""
+weight = ""
+[[menu.main]]
+URL = ""
+name = "About"
 weight = 2
 [[menu.main]]
 URL = "financialtime01@gmail.com"
@@ -26,7 +30,7 @@ email = "exmaple@ymail.com"
 google_analitycs_id = "Your ID"
 home = "Home"
 layout = "1"
-logo = "images/logo.png"
+logo = "images/post-2.png"
 mobile = "+90 000 333 22"
 preloader = true
 search = true

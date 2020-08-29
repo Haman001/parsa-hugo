@@ -5,6 +5,11 @@ summaryLength = "10"
 theme = "Financial Time"
 title = "Financial time"
 [[menu.main]]
+URL = "about"
+name = "About"
+url = "financialtime01@gmail.com"
+weight = 1
+[[menu.main]]
 URL = "contact"
 name = "Contact"
 url = "financialtime01@gmail.com"

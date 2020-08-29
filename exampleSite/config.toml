@@ -2,7 +2,7 @@ baseURL = "https://financialtime.netlify.com"
 languageCode = "en-us"
 paginate = 6
 summaryLength = "10"
-theme = "parsa-hugo"
+theme = "Financial Time"
 title = "Financial time"
 [[menu.main]]
 URL = "about"

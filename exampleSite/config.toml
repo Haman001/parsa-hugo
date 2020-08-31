@@ -24,12 +24,12 @@ bio = ""
 contact_form_action = "financial.time0@gmail.com"
 copyright = "Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)"
 description = "This is meta description"
-email = "exmaple@ymail.com"
+email = "financial.time0@gmail.com"
 google_analitycs_id = "Your ID"
 home = "Home"
 layout = "1"
 logo = "images/post-2.png"
-mobile = "+90 000 333 22"
+mobile = ""
 preloader = true
 search = true
 [params.instafeed]

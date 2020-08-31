@@ -12,7 +12,7 @@ weight = "2"
 [[menu.main]]
 URL = "contact"
 name = "Contact"
-url = "financialtime01@gmail.com"
+url = "financial.time0@gmail.com"
 weight = 2
 [outputs]
 home = ["HTML", "RSS", "JSON"]

@@ -8,7 +8,7 @@ title = "Financial time"
 URL = "about"
 name = "About"
 url = "financial.time0@gmail.com"
-weight = 1
+weight = "2"
 [[menu.main]]
 URL = "contact"
 name = "Contact"
@@ -64,7 +64,7 @@ link = "plugins/search/mark.js"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
 [[params.social]]
-URL = "https://www.facebook.com/Financial-Time-109468137538152
+URL = "#"
 icon = "ti-facebook"
 [[params.social]]
 URL = "#"

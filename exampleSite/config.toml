@@ -64,7 +64,7 @@ link = "plugins/search/mark.js"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
 [[params.social]]
-URL = "#"
+URL = "https://www.facebook.com/Financial-Time-109468137538152"
 icon = "ti-facebook"
 [[params.social]]
 URL = "#"
